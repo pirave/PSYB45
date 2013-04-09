@@ -1,4 +1,6 @@
 PSYB45
 ======
 
-Collaborative Notes: PSYB45  Behaviour Modification
+Collaborative notes for PSYB45: Behaviour Modification
+
+######[Preview] (http://pirave.github.io/PSYB45/)
